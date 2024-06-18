@@ -1,6 +1,6 @@
-Miguel Mascaró 
+# Miguel Mascaró 
 
-miguelmascaro.com
+## miguelmascaro.com
 
 <!--
 **Mascaro101/mascaro101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
