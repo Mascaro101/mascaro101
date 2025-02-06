@@ -70,4 +70,8 @@
     <a href="https:/https://expressjs.com//" title="Express">
         <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Docker" width="50px" height="50px">
     </a>
+    <a href="https://sass-lang.com/" title="Sass">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg?raw=true" alt="Sass" width="50px" height="50px">
+    </a>
+
 </div>
